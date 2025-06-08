@@ -76,8 +76,6 @@ java -jar target/multithreaded-encryptor-1.0.jar
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. 
+This project is for educational purposes only.  
+Starter files were provided by instructors at Flinders University and Oracle.
+Do not redistribute or use for commercial purposes.
